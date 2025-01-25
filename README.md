@@ -85,3 +85,4 @@ Ahmad Dzul Fauzil Azhim - 2210010389
 
 ## Demo
 
+![App Screenshot](https://github.com/AhmadDzulFauzilAzhim/apkCekCuacaSederhana/blob/main/img/demo%20aplikasi%20cek%20cuaca%20sederhana.gif)
